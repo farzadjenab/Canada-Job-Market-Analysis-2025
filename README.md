@@ -2,9 +2,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)]
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)]
-[![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)]
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
