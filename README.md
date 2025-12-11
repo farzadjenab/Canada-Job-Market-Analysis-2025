@@ -7,6 +7,7 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
 
 > **A comprehensive exploratory data analysis (EDA) of the Canadian job market, featuring salary insights, industry trends, regional comparisons, and a deep-dive into Toronto's employment landscape.**
 
