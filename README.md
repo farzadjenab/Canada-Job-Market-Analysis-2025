@@ -350,11 +350,13 @@ in the Software without restriction…
 - 🎨 Visualization inspiration from data science community
 - 📚 Analysis methodology based on EDA best practices
 
-<div align=“center”>
+--- 
 
-🌟 If you found this project helpful, please give it a star!
+<div align="center">
 
+**⭐ If you found this project helpful, please give it a star! ⭐**
 
-Made with ❤️ for Data Science Enthusiasts
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)]()
+[![Python](https://img.shields.io/badge/Powered%20by-Python-blue.svg)]()
 
 </div>
