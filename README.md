@@ -117,7 +117,7 @@ Jupyter Notebook / JupyterLab
 
 1. **Clone the repository**
 bash
-git clone https://github.com/farzadjenab/canada-job-market-analysis.git
+git clone https://github.com/farzadjenab/canada-job-market-analysis-2025.git
 cd canada-job-market-analysis
 
 2. **Create virtual environment**
