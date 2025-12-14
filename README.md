@@ -342,11 +342,6 @@ of this software and associated documentation files (the “Software”), to dea
 in the Software without restriction…
 
 ## 📬 Contact
-|Platform |	Link |
-|📧 Email |	jenabfarzad@yahoo.com |
-|💼 LinkedIn |	farzadjenab |
-|🐙 GitHub	| @farzadjenab |
-
 | Platform | Link |
 |-----------------|---------------|
 | 📧 Email | jenabfarzad@yahoo.com |
