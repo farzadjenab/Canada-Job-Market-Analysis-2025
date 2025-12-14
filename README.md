@@ -346,6 +346,13 @@ in the Software without restriction…
 |📧 Email |	jenabfarzad@yahoo.com |
 |💼 LinkedIn |	farzadjenab |
 |🐙 GitHub	| @farzadjenab |
+
+| Platform | Link |
+|-----------------|---------------|
+| 📧 Email | jenabfarzad@yahoo.com |
+| 💼 LinkedIn | farzadjenab |
+| 🐙 GitHub | @farzadjenab |
+
 ## ⭐ Acknowledgments
 - 📊 Dataset sourced from Canadian job market aggregators
 - 🎨 Visualization inspiration from data science community
