@@ -256,11 +256,11 @@ Senior Level →  ~$115,000
 ### 📊 Toronto Industry Focus
 
 
-IT & Technology    ████████████  35%
-Business Services  ████████      22%
-Finance            ██████        18%
-Marketing          █████         15%
-Others             ███           10%
+- IT & Technology    ████████████  35%
+- Business Services  ████████      22%
+- Finance            ██████        18%
+- Marketing          █████         15%
+- Others             ███           10%
 
 ---
 
